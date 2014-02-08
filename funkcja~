@@ -1,3 +1,12 @@
 public void m1() {
 System.out.println("coścos");
 }
+<<<<<<< HEAD
+
+public void m1() {
+System.out.println("zmiana jakas");
+=======
+public void m1() {
+System.out.println("zmiana jakas inna");
+>>>>>>> ee9e85d5087a5bf73634290fd65c396b89293d28
+}
