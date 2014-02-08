@@ -1,3 +1,7 @@
 public void m1() {
 System.out.println("coścos");
 }
+
+public void m1() {
+System.out.println("zmiana jakas");
+}
